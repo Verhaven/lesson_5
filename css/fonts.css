@@ -1,0 +1,16 @@
+
+
+@font-face {
+    font-family: Madetheartistscript;
+    src: url("../fonts/Madetheartistscript.woff2") format("woff2"), url("../fonts/Madetheartistscript.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face{
+    font-family: crismasscript;
+    src: url("../fonts/christmasscriptc.woff2") format("woff2"), url("../fonts/christmasscriptc.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}

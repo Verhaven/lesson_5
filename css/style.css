@@ -1,0 +1,134 @@
+body {
+   background: #222222;
+   width: 100%; 
+}
+.body-primary{ 
+   background-image: url("../img/bakgraund_img.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.wrapper{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.logo-container{
+    margin-left: 20px;
+}
+.header-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.header-nav-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header-nav-item {
+    font-family: Madetheartistscript;
+    margin-right: 14px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 17px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgba(0, 214, 180, 0.32);
+    
+}
+.title-content {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+h1 {
+    font-family: Madetheartistscript;
+    margin-top: 150px;
+    width: 450px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 53px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.min-link{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+.link-link{
+    font-family: Madetheartistscript;
+    margin: 50px;
+    padding: 15px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgba(0, 214, 180, 0.32);
+}
+.one{
+    display: flex;
+    justify-content: center;
+    font-family: crismasscript;
+    margin: 50px;
+    padding: 15px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgba(0, 214, 180, 0.32);
+}
+section{
+    display: flex;
+    flex: auto;
+    
+}
+.container-item{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: auto;
+
+}
+.item-lesson{
+    width: 300px;
+    padding: 20px;   
+}   
+footer{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    margin-top: 20px;
+}
+.footer-up{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color:rgba(0, 214, 180, 0.32);
+}
+.footer-copyright{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+span{
+    font-family: crismasscript;
+}
+.lesson p{
+    color: white;
+}
+.lesson-item span{
+    font-family: crismasscript;
+    font-style: italic;
+    text-decoration: overline;
+}
+.span2{
+    text-indent: 20px;
+}
+.item-lesson{
+    text-shadow: 0.2px 7px rgb(6, 58, 52);
+}
